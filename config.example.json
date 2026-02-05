@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "name": "Aniruddh Dadhich",
+    "email": "aniruddh.dadhich99@gmail.com",
+    "phone": "+91-8112283186",
+    "current_location": "Bangalore, India",
+    "experience_years": 2.5,
+    "skills": ["Python", "Java", "React", "Angular", "FastAPI", "Spring Boot"],
+    "preferred_titles": ["Full Stack Developer", "Backend Engineer", "Frontend Engineer"],
+    "portfolio_url": "https://linkedin.com/in/aniruddhdadhich",
+    "linkedin_url": "https://linkedin.com/in/aniruddhdadhich",
+    "resume_path": "./Aniruddh_Resume.pdf",
+    "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the Full Stack Developer position at your organization. With over two years of experience building scalable, production-grade applications, I bring strong expertise across frontend, backend, and modern cloud-based systems.\n\nIn my current role, I have worked on enterprise platforms involving React, Angular, Python, Java, FastAPI, and Spring Boot. My responsibilities include developing user-friendly interfaces, designing secure APIs, implementing automated testing, and supporting applications across development, staging, and production environments. I have also contributed to distributed systems, search platforms, and AI-driven solutions, enabling high-performance and reliable products.\n\nI have a strong foundation in data structures, system design, and software engineering best practices. I am proactive in learning new technologies and enjoy translating business requirements into robust technical solutions. I value clean code, collaboration, and continuous improvement.\n\nI am excited about the opportunity to contribute to your team and help build impactful, high-quality products. I would welcome the chance to discuss how my skills and experience can support your organization’s goals.\n\nThank you for your time and consideration.\n\nSincerely,\nAniruddh Dadhich"
+  },
+  "search": {
+    "search_queries": ["full stack developer", "backend engineer", "frontend engineer"],
+    "locations": ["Bangalore", "Pune", "Hyderabad", "Remote"],
+    "max_results_per_board": 5,
+    "max_applications": 20,
+    "dry_run": true,
+    "headless": true,
+    "storage_state_path": "./storage_state.json"
+  }
+}
