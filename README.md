@@ -14,15 +14,18 @@ This repo automates India-focused job discovery and ranking using OpenAI (ChatGP
 ## Prerequisites
 
 - Python 3.10+
+- [uv](https://github.com/astral-sh/uv) installed (`pipx install uv` or see uv docs)
 - An OpenAI API key (paid ChatGPT plan supported via API billing)
 - Playwright browsers installed: `python -m playwright install`
 
 ## Setup
 
-1. Install dependencies:
+1. Create a virtual environment and install dependencies with uv:
 
 ```bash
-pip install openai playwright
+uv venv
+source .venv/bin/activate
+uv pip install openai playwright
 ```
 
 2. Create a Playwright storage state after logging in to job boards (especially LinkedIn):
